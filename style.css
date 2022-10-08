@@ -59,4 +59,12 @@ line-height: 20px;
     size: 1em;
     line-height: 24px;
     color: #7F8CFF;
+
+.badge {
+  background-color: #EBEBFF;
+  color: #6070FF;
+}
+
+.card-title {
+  color: #091E42;
 }
